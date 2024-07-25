@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">💻 Engenheira de Software 💻<br>🐍 Experiência em Python 🐍<br>☕ Focada em estudar Java ☕<br>🚀 Apaixonada por tecnologia e inovação 🚀</p>
+<p align="center">💻 Sistemas de Informação 💻<br>🐍 Experiência em Python 🐍<br>☕ Conehecimento em Java ☕<br>🚀 Apaixonada por Tecnologia e Inovação 🚀</p>
 
 ###
 
