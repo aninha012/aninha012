@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif"  />
-</div>
-
 ###
 
 <div align="center">
