@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Bem Vindo(a) 👋</h1>
+<h1 align="center">👋Olá! Bem Vindo(a)</h1>
 
 ###
 
@@ -34,9 +34,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aninha012/count.svg?"  />
-</div>
+<img align="right" height="260" src="https://img1.picmix.com/output/stamp/normal/7/6/3/6/2496367_4460b.gif"  />
 
 ###
 
@@ -45,6 +43,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ana-luísa-negreiros-75320827b/" target="_blank">
@@ -57,15 +57,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="211" src="https://img1.picmix.com/output/stamp/normal/7/6/3/6/2496367_4460b.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/aninha012/aninha012/output/snake.svg" alt="Snake animation" />
 
 ###
