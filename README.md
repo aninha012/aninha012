@@ -2,19 +2,19 @@
 
 ###
 
-<h2 align="left">👩‍💻  Sobre Mim</h2>
+<h2 align="center">👩‍💻  Sobre Mim</h2>
 
 ###
 
-<p align="left">💻 Engenheira de Software<br>🐍 Experiência em Python<br>☕ Focada em estudar Java<br>🚀 Apaixonada por tecnologia e inovação</p>
+<p align="center">💻 Engenheira de Software 💻<br>🐍 Experiência em Python 🐍<br>☕ Focada em estudar Java ☕<br>🚀 Apaixonada por tecnologia e inovação 🚀</p>
 
 ###
 
-<h2 align="left">🛠 Linguagens e Ferramentas</h2>
+<h2 align="center">🛠 Linguagens e Ferramentas</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">🔥   Meu Status</h2>
+<h2 align="center">🔥   Meu Status</h2>
 
 ###
 
