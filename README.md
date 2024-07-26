@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">💻 Sistemas de Informação 💻<br>🐍 Experiência em Python 🐍<br>☕ Conehecimento em Java ☕<br>🚀 Apaixonada por Tecnologia e Inovação 🚀</p>
+<p align="center">💻 Sistemas de Informação 💻<br>🐍 Experiência em Python 🐍<br>☕ Conhecimento em Java ☕<br>🚀 Apaixonada por Tecnologia e Inovação 🚀</p>
 
 ###
 
