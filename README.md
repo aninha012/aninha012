@@ -43,10 +43,6 @@
 
 ###
 
-<img align="right" height="260" src="https://img1.picmix.com/output/stamp/normal/7/6/3/6/2496367_4460b.gif"  />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aninha012&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
